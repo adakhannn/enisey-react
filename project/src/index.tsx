@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import App from './components/app/app';
+import App from './app';
 import 'react-toastify/dist/ReactToastify.css';
 
 const root = ReactDOM.createRoot(
